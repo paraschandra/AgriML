@@ -1,0 +1,11 @@
+# Ignore the .env file
+.env
+
+# Ignore any files that start with .env-
+.env-*
+
+# Ignore any files that end in .pyc
+*.pyc
+
+# Ignore any files that end in .swp
+*.swp
