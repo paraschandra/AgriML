@@ -1,5 +1,5 @@
 # AgriML
-![Homepage](frontend\public\homepage.png)
+![Homepage](frontend/public/homepage.png)
 <br/>
 AgriML is a web-based application of machine learning in the field of agriculture to provide personalized crop and fertilizer recommendations tailored to the unique soil composition of the farm.<br/>
 The project leverages the power of machine learning and data science to enhance crop yield by analyzing the data and research done by established authorities.
