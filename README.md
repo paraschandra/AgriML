@@ -35,11 +35,11 @@ $ npm run dev
 ```
 
 ## Screenshots
-![SS.1: Homepage](frontend\public\homepage.png)
+![SS.1: Homepage](frontend/public/homepage.png)
 
-![SS.2: Crop page](frontend\public\crop-page.png)
+![SS.2: Crop page](frontend/public/crop-page.png)
 
-![SS.3: Fertilizer page](frontend\public\fertilizers-page.png)
+![SS.3: Fertilizer page](frontend/public/fertilizers-page.png)
 
 ## Contributors
 <a href="https://github.com/paraschandra/AgriML/graphs/contributors">
