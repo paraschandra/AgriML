@@ -24,7 +24,7 @@ $ git clone https://github.com/paraschandra/AgriML.git
 ```
 $ npm i
 ```
-- Now, change the directory to backend and install all Python packages using:
+- Now, change the directory to the backend and install all Python packages using:
 ```
 $ pip install {package-name}
 ```
@@ -44,7 +44,7 @@ $ npm run dev
 ## Contributors
 <a href="https://github.com/paraschandra/AgriML/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=paraschandra/AgriML" />
-</a> &nbsp
+</a> Paras Chandra
 <a href="https://github.com/purucool/">
   <img src="https://contrib.rocks/image?repo=purucool/snake-game" />
-</a>
+</a> Purushottam Varshney
